@@ -50,6 +50,8 @@ export default function Home() {
                     aliqua. Ut enim ad minim veniam, quis nostrud exercitation
                     ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
+                  <p>test modal</p>
+                  <p>test modal</p>
                 </div>
               </ModalBody>
             </>
